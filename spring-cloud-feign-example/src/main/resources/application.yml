@@ -4,4 +4,6 @@ spring:
       uri: http://localhost:8888
       name: web-example-feign
       label: master
-      profile: dev
+#      profile: dev
+#      profile: testing
+      profile: prod
